@@ -76,3 +76,4 @@ dicionario = dict(a=1, b=2, c=3)
 soma_multiplo_numeros(**dicionario)
 
 
+# OBS: Os nomes da chave em um dicionário devem ser o mesmo dos parâmetros da função
